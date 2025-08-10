@@ -19,3 +19,4 @@ To practice Data Structures and Algorithms (DSA) and improve problem-solving ski
 ## Folder Structure
 - `C++/` – C++ solutions
 - `Java/` – Java solutions
+- `MySql` - MySql solutions
