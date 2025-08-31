@@ -5,6 +5,7 @@ This repository contains solutions to LeetCode problems solved using **C++** and
 ## Languages Used
 - C++
 - Java
+- Python
 
 ## Purpose
 To practice Data Structures and Algorithms (DSA) and improve problem-solving skills for coding interviews.
