@@ -6,6 +6,7 @@ This repository contains solutions to LeetCode problems solved using **C++** and
 - C++
 - Java
 - Python
+- MySql
 
 ## Purpose
 To practice Data Structures and Algorithms (DSA) and improve problem-solving skills for coding interviews.
