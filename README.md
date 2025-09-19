@@ -6,6 +6,7 @@ This repository contains solutions to LeetCode problems solved using **C++** and
 - C++
 - Java
 - Python
+- C#
 - MySql
 
 ## Purpose
