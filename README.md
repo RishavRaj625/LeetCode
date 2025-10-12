@@ -2,7 +2,7 @@
 
 This repository contains solutions to LeetCode problems solved using **C++** and **Java**.
 
-## Languages Used
+## Languages Used:
 - C++
 - Java
 - Python
