@@ -1,10 +1,13 @@
 class Solution {
 public:
     string largestEven(string s) {
-        int j;
-        for(j = s.size() - 1; j >= 0; j--) {
-            if(s[j] == '2') break;
+        while (!s.empty()) {
+            int lastDigit = s.back() - '0';
+            if (lastDigit % 2 == 0) {
+                return s;
+            }
+            s.pop_back();
         }
-        return s.substr(0, j + 1);
+        return "";
     }
 };
